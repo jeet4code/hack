@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skin-science-368104",
+  "private_key_id": "1f85e2c6ef1e204bed253315635a52d906e19a41",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuX+ClJ3acLZAX\nJuZRv4hAEl98QywiW/54jltHtRM2JCLjaWYd8MqPKj5d2ivJYNZjZFyFCEjg90CV\n95iZRK9xMh55U+R1DcCkDRIsZsVT+qHylDlZ7ENKAjlGoZzCGL1YhdQvUuWoxEGF\nDMJsF+wBllgI7/E3GWT9u2z4O+5TvdvVpSc1Sw/sQzveheeNovM3yo7rRmdR8cxt\nJYLGn1k+ut7gqRmWNlbB3hKSNhNZXkxr3cY98tYt5lFcCDYZCFgSRBdx5um5j9gF\nuFPsfIrGWGSdWbqV9sHS9yWIRKZxqGrQMPd7lsB5xOhTgHzOzUavWM9RXEcooIjy\nBrUmB/bNAgMBAAECggEABmKiT262kCMDlplynMLUMPzYDGAwU35fZX4/BCa/eJk4\ndTyxkNfPSKoasdidbfWGFdcoI4+PwNWRz6Jxe9SETfNjvGK9gamagldfl3ElX8nu\nGFVkFHGLbqa0sewU/68kvEMp55hUERer5FZsH/jjSBT/jccHI/k7b1nBTh8k5WH4\n3PintxC/jcJjnrQUEtSkjD3erL7jvqLa0mtdfZtJt9ekmlrSZ2M60de/LGWdh7wW\n5SkrV2PblvtzYOmGu71WYauHkWEm0RQaL6Zc/DG9M3EnZnaw9EoWPohQISMvr7+O\nR4Q1hecSfUzUpy1836XJ9c9HiiprIYTLLK+olgOlGQKBgQDj9wtb9xh4cHKhU0Td\nz26x7zdQhPaccRcowIYurx11pSvmNyEQ2e2QjDglB2rur/arH2lzgHst0fqCsEZ5\nGVpZ2WYURPydsXj2eUcN2Hqr5eVjsEJLwAzPmKRDxuD7Z/U83lnDBxWhb1ohFY10\newJdPuR/T2WRdApNwgQtpWXkOQKBgQDD0ajJzlaqpuwckv+rzNaEo4HI70X8Iygs\ni1YZ/AqRJLkr+6a1BcdTTHQCJZPmR3dGnvb0g7momaNTs61Ai+55jprQmGcL6ZFv\nvRSLUarQpKnkqUJFY8Y6dwaDXZAQIOb2CkfeewBUfghovTuiXtkVJLu/E5MZPQOa\npXWCl9NvNQKBgDF4VQC6GJdaX6Xeuh0gfLckYG6azCGa8Rmo3fWXjt8O3v3wjL5p\nbIJny29NssjlarQr9uhXw2NoI+Lkegahl9fTs7FGX0OhVcy2+NJqXgSbuTHu+BQU\nMzOBvnPu3rfwEWoKHpSSHwGPdpGjabUTVKoDkfaGtlXgRrQlHF8De58RAoGALeQx\n2XG5D+9kwGGW961ezOEA5pVk4m1e2emhuR8/XrqrhupILH55M0Vknqgt3Db9dhiF\nKdLBLQkspM4kGU9yCRzpnV9KLxmDExvN98Sg8prUkhk0xcxXRZZleV3xCEaduiW4\nqCRNdH/A+sL2edwepfzg3yv4Ol75PEHwozVvwM0CgYB+irs4GcAHLOzVexsSxFWh\nK5Dkmjdmabs0Sb//qS9+p5WEUI+S7hwoN+UtpZNr1jn2sMXx514Guhkei51JsuQT\nd9m4MDe4Rubez2U5LZ9ACnFs07hrEWHnUhGHQKio1nCxYOeJF8FQn3DF1hh9tfBc\n6TWh+5Q0jpMk2ZQBnV3l+A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "skin-science@skin-science-368104.iam.gserviceaccount.com",
+  "client_id": "102432749832914768006",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skin-science%40skin-science-368104.iam.gserviceaccount.com"
+}
